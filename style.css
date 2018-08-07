@@ -1,0 +1,49 @@
+*{
+	margin:0;
+	padding: 0;
+	box-sizing: border-box;
+}
+
+header {
+	display: flex;
+	justify-content: center;
+}
+
+section {
+	display: flex;
+    justify-content: center; 
+}
+
+p {
+	font-family: 'Open Sans', sans-serif;
+	text-transform: uppercase;
+}
+
+#display {
+	padding: 15px;
+    margin-top: 5px;
+    margin-bottom: 2px;
+}
+
+#calculadora{
+	height: 100%;
+	background-color: #5656;
+
+}
+
+.objetos__calculadora{
+	display: flex;
+	justify-content: center;
+}
+
+.numeros__calculadora{
+	
+}
+
+input {
+	padding: 20px;
+}
+
+.input__button{
+	width: 24.1%;
+}
